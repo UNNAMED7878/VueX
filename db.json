@@ -2,7 +2,7 @@
   "cars": [
     {
       "name": "Mustang",
-      "color": "#00e1ff",
+      "color": "#00e2ff",
       "comp": "Ford",
       "id": 1
     }
